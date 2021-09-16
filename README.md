@@ -1,7 +1,8 @@
-# Flight Quote .Net console app
+# .Net demo console app
 Simple console application .NET 5 / C#.
 
-This console application simulates to call three different flight sites to retrieve flight quotes in an async workflow.
+## Flight Quote Demo
+This method simulates to call three different flight sites to retrieve flight quotes in an async workflow.
 
 It uses `Thread.Sleep` to simulate calls made to an imaginary flight sites (API).
 
